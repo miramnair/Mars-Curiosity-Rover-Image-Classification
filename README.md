@@ -13,4 +13,3 @@ Objectives:
 	Create a fundamental model that achieves the most accurate results, within the constraints of the available resources.
 	Perform a comparative study of the performance of the chosen models on MSL dataset.
 	Analyze the outcomes to draw conclusions.
-![image](https://github.com/miramnair/Mars-Curiosity-Rover-Image-Classification/assets/128325004/aaddefc6-f01c-41b6-b01d-07bdbddf46de)
